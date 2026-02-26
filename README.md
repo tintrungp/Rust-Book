@@ -1,7 +1,7 @@
 # Trung's Journey Into RUST
 
 # Chapter Progress
-- [ ] Chapter 1	
+- [x] Chapter 1	
 - [ ] Chapter 2	
 - [ ] Chapter 3	
 - [ ] Chapter 4	
